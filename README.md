@@ -21,5 +21,5 @@
 <img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/6864ea45-4737-477f-b552-25e82982e8c5/Solar" />
 <img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/ffd0bd10-07f7-413b-9c3f-8ba277139315/Soul Scourge" />
 <img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/85753a56-2f82-4860-b7da-e8e26a63d589/Speed" />
-<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/c7fcafb6-a922-4499-9d8b-1a7fa4f2dc54/The Heights" />
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/he Heights/c7fcafb6-a922-4499-9d8b-1a7fa4f2dc54" />
 <img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/e89ca92c-38ee-4ccc-adf4-fef5be4fbaa4/Tidal" />
